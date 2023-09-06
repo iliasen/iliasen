@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋😎, I'm Ilya Semenkovich</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🌱 I’m currently learning **React, Linux**
+- 🌱 I’m currently learning **Java, Linux**
 
 - 💬 Ask me about **Rest API**
 
