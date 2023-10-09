@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋😎, I'm Ilya Semenkovich</h1>
+<h1 align="center">Hi 👋😎, I'm Ilya Semiankovich</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
 - 🌱 I’m currently learning **Java, Linux**
